@@ -48,7 +48,7 @@ if(isset($_POST['submit'])){
     <section class="form-contenedor">
         <form action="" method="POST">
         <center><ion-icon name="logo-twitter"></ion-icon></center>
-            <h3>LOGUEATE AHORA</h3>
+
             <input type="email" name="email" required maxlength="50" placeholder="ingresa tu email" class="box">
 
             <input type="password" name="password" required maxlength="50" placeholder="ingresa tu contraseña" class="box">
